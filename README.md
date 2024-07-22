@@ -16,7 +16,5 @@ Skills: VUE JS / NODE JS / LARAVEL / HTML / CSS / JS / C++ / PYTHON / FLUTTER / 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiusgeoffrey)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiusgeoffrey&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/sergiusgeoffrey)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiusgeoffrey&show_icons=true)   
 
