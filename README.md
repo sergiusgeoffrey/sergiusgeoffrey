@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergius Geoffrey</h1>
-<h3 align="center">Fresh Graduate of Informatics | Petra Christian University </h3>
+<h3 align="center">Graduate of Informatics | Petra Christian University </h3>
 <p align="center"> <img src="./github-header-image.png" alt="Sergius-Geoffrey" /> </p>
 
 <h3 align="left">Languanges:</h3>
